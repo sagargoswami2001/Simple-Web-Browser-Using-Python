@@ -1,10 +1,19 @@
-Requirements and Installation:
-1. pip install PyQt5
-2. pip install PyQtWebEngine
+# Simple Web Browser Using Python
+- This is a GUI Based Web Browser Using PyQt5 &amp; PyQtWebEngine Modules.
+
+## Install Dependencies:
+```
+pip install PyQt5
+```
+```
+pip install PyQtWebEngine
+```
+
+User Manual:
+
 the recommended installation procedure is to copy the "Python Browser" folder to wherever you desire, documents is recommended
 and then make a shortcut to "Web_Broswer.py" and place the Shortcut into you Desktop folder.
 
-User Manual:
 opening the program presents you with a website, a search bar, and two menus.
 
 1. The website the browser opens to is your Start page.
