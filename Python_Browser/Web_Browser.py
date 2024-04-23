@@ -15,9 +15,14 @@ class MainWindow(QMainWindow):
         self.showMaximized()
 
         #get current directory
-        self.savedurl = 'http://google.com'
-        self.dir = os.getcwd()
-        self.savepath = os.path.join(self.dir, 'Web_saves\\Full_Settings.txt')
+        try:
+            self.savedurl = 'http://google.com'
+            self.dir = os.getcwd()
+            self.savepath = os.path.join(self.dir, 'Web_saves\\Full_Settings.txt')
+        except:
+            self.savedurl = 'http://google.com'
+            self.dir = os.getcwd()
+            self.savepath = os.path.join(self.dir, 'Web_saves/Full_Settings.txt')
 
         #add toolbar
         navbar = QToolBar()
