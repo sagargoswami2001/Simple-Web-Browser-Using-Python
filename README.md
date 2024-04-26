@@ -11,12 +11,16 @@ pip install PyQtWebEngine
 
 User Manual:
 
-The recommended installation procedure is to copy the "Python Browser" folder to anywhere, the documents folder is recommended
-and then make a shortcut to "Web_Broswer.py" and place the Shortcut into you Desktop folder.
+Warning:
+The Bookmark system has proven to only work on windows as the person who added it does not possess a linux/mac computer.
+Users of these operating systems use the "Browser_NB.py" file instead of “Web_Browser.py”.
+
+The recommended installation procedure is to copy the "Python Browser" folder to anywhere though the documents folder is recommended.
+Then open the folder, right click on “Web_Browser.py” and click “Create Shortcut”. This should create a shortcut file in the directory, simply move this shortcut to your desktop and everything should be set up.
 
 Opening the program presents you with a website, a search bar, and two menus.
 
-1. The Browser opens to your start page witch can be changed
+1. The Browser opens to your start page which can be changed
 
 2. The search bar is not google, use it only when you have the FULL address of the web page you are looking for
 
