@@ -13,8 +13,8 @@ pip install PyQtWebEngine
 User Manual:
 
 Warning:
-The Bookmark system has proven to only work on windows as the person who added it does not possess a linux/mac computer.
-Users of these operating systems should simply download the “Browser_NB.py” file
+The Bookmark system has proven to only work on windows.
+Users of these operating systems should simply download the “Browser_NB.py” file to their wanted directory.
 
 The recommended installation procedure is to copy the "Python Browser" folder to anywhere though the documents folder is recommended.
 Then open the folder, right click on “Web_Browser.py” and click “Create Shortcut”. This should create a shortcut file in the directory, simply move this shortcut to your desktop and everything should be set up.
@@ -35,6 +35,7 @@ as well as a link to the github of this programs original creator
 Creator: sagargoswami2001
 
 Contributors: Geoffrey-Hash
+
 
 5. Start, Search, and all Bookmarked pages default to the google homepage
 
