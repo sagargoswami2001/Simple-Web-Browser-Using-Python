@@ -32,13 +32,6 @@ as well as a link to the github of this programs original creator
 
 5. Start, Search, and all Bookmarked pages default to the google homepage
 
-Creator: sagargoswami2001
+- Creator: sagargoswami2001
 
-Contributors: Geoffrey-Hash
-
-
-5. Start, Search, and all Bookmarked pages default to the google homepage
-
-Creator: sagargoswami2001
-
-Contributors: Geoffrey-Hash
+- Contributors: Geoffrey-Hash
